@@ -1,0 +1,39 @@
+Report for Objective 2:
+
+This report is based on the data pipeline created. This pipeline ingests data from the persons API, anonymizes it and stores it in an SQLite db.
+The report addresses the following key questions based on the data extracted:
+
+Percentage of Users in Germany Using Gmail
+Top Three Countries Using Gmail
+Number of People Over 60 Years Using Gmail
+
+
+Percentage of users in Germany using Gmail: 
+
+The analysis indicates that 28.57% of users living in Germany use Gmail as their email provider.
+This percentage is calculated by dividing the number of Gmail users in Germany by the total number of users in Germany.
+With 1/3 of the users in Germany using Gmail we can conclude that it is quite popular compared to other email providers.
+
+Top Three Countries Using Gmail:
+
+
+Vatican with 17 users
+Moldova with 14 users
+Iceland with 14 users
+
+This insight is very interesting. The API has been called 10 times and generated random users data and the top country of our list is the smallest country in the world.
+
+Number of People Over 60 Years Using Gmail
+
+The data shows that there are 1683 users over 60 out of 10000 total users who use Gmail as their email provider.
+
+
+Conclusion:
+
+Ouf of the sample of data collected it seems that Gmail is quite prevalent in Germany with an adoption rate of almost 30%.
+This email provider is also quite used in smaller countries like Vatican or Iceland.
+Finally 16.83% of the sample collected are aged over 60 and using Gmail. 
+
+Gmail therefore seems like a very predominant email provider amongst the sample of users collected. 
+It seems to be moderately adopted in developed countries such as Germany, very popular in small countries like Vatican and very popular amongst the older generation. 
+

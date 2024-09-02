@@ -1,5 +1,6 @@
 # PersonsDataPipeline
-Extracting data from the Persons data API 
+
+
 The aim of this python project is to build a data pipeline ingesting data from the Persons data API and loading it into a SQLite db. 
 This project has been divided into several different scripts dealing with a different aspect of the ETL process. 
 The aim is to produce a modular, reusuable, readable, easily integrated and testable code. 
